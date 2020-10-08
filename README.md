@@ -1,4 +1,4 @@
-`Hello, world,` and welcome to my GitHub profile!
+`Hello world,` and welcome to my GitHub profile!
 
 Currently, I'm focused on:
 
