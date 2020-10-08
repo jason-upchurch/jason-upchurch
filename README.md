@@ -2,6 +2,7 @@
 
 Currently, I'm focused on:
 
+- Being a dad to two boys (8, 5)
 - Supporting the Federal Election Commmission's open-source website (www.fec.gov) project managed with Agile (Scrum)
 - Maintaining my personal website, www.shined.org
 - Working on the Project Management Institute--Agile Certified Practitioner exam
