@@ -11,4 +11,4 @@ Currently, I'm focused on:
 ### Recent accomplishments
 - [x] Project Management Institute--Disciplined Agile Scrum Master (certification acheived December 2020)
 - [x] Project Management Institute--Agile Certified Practitioner (certification achieved October 2020)
-- [x] AWS Certified Cloud Practitioner (certification acheived January 2020)
+- [x] AWS Certified Cloud Practitioner (certification achieved January 2020)
