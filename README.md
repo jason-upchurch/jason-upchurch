@@ -6,7 +6,7 @@ Currently, I'm focused on:
 - Building and maintaining my personal website, www.shined.org
 - Contributing to the open-source community
 - Working on the AWS Solutions Architect Associate exam (I passed the AWS Certified Cloud Practitioner exam in January 2020)
-- Staying current on various programming languages through focused projects
+- Staying current on computer science topics through focused projects and coursework
 
 ### Recent accomplishments
 - [x] Project Management Institute--Disciplined Agile Scrum Master (certification acheived December 2020)
